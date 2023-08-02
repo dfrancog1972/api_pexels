@@ -9,6 +9,19 @@ body {
 	background: #e0e0e0;
 	color: #1d1d1d;
 }
+h1{
+	text-align: center;
+	text-shadow: #100a1f;
+	color: #241744;
+	text-decoration: wavy;
+}
+h2{
+	text-align: center;
+	text-shadow: #100a1f;
+	color: #241744;
+	text-decoration: wavy;
+}
+
 
 .contenedor {
 	width: 90%;
